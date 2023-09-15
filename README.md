@@ -1,2 +1,2 @@
 # Calculator-app
-Task 4 of JavaScript web development internship
+Task 4 of JavaScript web development internship codesoft
